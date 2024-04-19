@@ -1,3 +1,4 @@
+
 ---
 title: 'Neural Networks in Python'
 author: EECS 295
@@ -9,8 +10,7 @@ The goal of this assignment is to give an introduction to using neural networks.
 
 We want to give you a chance to play around with and get a sense of how neural nets work. We are **NOT** asking you to code a neural network. Neural nets are an incredibly complicated concept with many varieties. For this assignment we'll focus on the most standard of these implementations, a multilayer network with feed forward nodes (don't worry if this sounds like gobbeldeygook we'll discuss it as we get to it).
 
-# Usage
-
+# Usage  
 First here is an example of creating, training and testing a network using the class we've provided. The neural net has two input nodes, five hidden nodes, and one output node (if you've used neural nets before we're only doing single hidden layer networks though feel free to have as many nodes in that layer as you'd like).
 
 ```python
